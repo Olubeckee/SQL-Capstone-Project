@@ -1,4 +1,4 @@
-# SQL-Capstone-Project
+# UTIVA SQL-Capstone-Project
 
 # Case Study: Analysis of  International breweries data recorded for a duration of three years in Profit Made, Brands and Countries
 Role: Data Analyst
